@@ -7,7 +7,7 @@ public class Exe022_ReverseString2 {
 
         System.out.println("Enter string");
         String str = sc.nextLine();
-        String reverse = "";
+       // String reverse = "";
         String str1[] = str.split(" ");
 
         for (int i = 0; i < str1.length; i++) {
