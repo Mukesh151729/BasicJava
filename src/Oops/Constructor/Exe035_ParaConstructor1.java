@@ -1,4 +1,4 @@
-package Oops;
+package Oops.Constructor;
 
 public class Exe035_ParaConstructor1 {
     public static void main(String[] args) {
